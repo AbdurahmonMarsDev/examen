@@ -1,0 +1,73 @@
+.uy{
+    background-color: aqua;
+    border-radius: 20px;
+    text-align: center;
+}
+h3{
+    color: green;
+}
+.tr{
+    background-color: yellow;
+    color: green;
+    text-align: center  ;
+}
+
+img{
+    width: 750  px;
+}
+
+div{
+    background-color: black ;
+    text-align: center;
+}
+
+input{
+    width: 100%;
+}
+                                    
+button{
+    width: 30%;
+}
+
+table,
+tr,
+th,
+td{
+    border: 2px solid rgb(17, 16, 16);
+    border-collapse:collapse ;
+}
+
+.ft{
+    width: 100%;
+    background-color: blue;
+}
+
+.bb{
+    text-align: center;
+} 
+
+.hh{
+    text-align: center;
+background-color: black;
+color: aliceblue;
+}
+
+.qq{
+    background-color: darkgreen;
+}
+
+.bb{
+    background-color:black;
+    color: aliceblue;
+}
+
+.ew{
+    background-color: red;    
+}
+
+.yy{
+    background-color: red;
+}
+div{
+    
+}
